@@ -97,7 +97,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - GitHub: [@SahaJewel](https://github.com/Sahajewel)
 - LinkedIn: [SahaJewelKumar](https://linkedin.com/in/sahajewelsaha)
-- Email: demo@gmail.com
+- Email: jewelsaha072@gmail.com
 
 
 
